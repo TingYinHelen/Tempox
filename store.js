@@ -1,5 +1,4 @@
 let Vue;
-
 export class Store {
   get state () {
     return this._vm.$$state
